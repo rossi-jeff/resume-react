@@ -228,10 +228,22 @@ let Resume = () => {
 
           <strong>Online</strong>
           <hr/>
-          <div>React:</div>
-          <div>Vue:</div>
-          <div>Angular:</div>
-          <div>Svelte:</div>
+          <div>
+              <span className='mr-1'>React:</span>
+              <a href="https://resume-react.jeff-rossi.com/" rel='noreferrer' target="_blank">https://resume-react.jeff-rossi.com/</a>
+          </div>
+          <div>
+              <span className='mr-1'>Vue:</span>
+              <a href="https://resume-vue.jeff-rossi.com/" rel='noreferrer' target="_blank">https://resume-vue.jeff-rossi.com/</a>
+          </div>
+          <div>
+              <span className='mr-1'>Angular:</span>
+              <a href="https://resume-angular.jeff-rossi.com/" rel='noreferrer' target="_blank">https://resume-angular.jeff-rossi.com/</a>
+          </div>
+          <div>
+              <span className='mr-1'>Svelte:</span>
+              <a href="https://resume-svelte.jeff-rossi.com/" rel='noreferrer' target="_blank">https://resume-svelte.jeff-rossi.com/</a>
+          </div>
           <br/>
 
           <strong>Contact</strong>
